@@ -1,0 +1,20 @@
+{
+  "name": "solitair",
+  "version": "1.0.0",
+  "description": "Solitair",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Upadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "build": "^0.1.4",
+    "cp": "^0.2.0",
+    "npm-run-all": "^4.1.5",
+    "pixi.js": "^8.6.2",
+    "rimraf": "^6.0.1",
+    "tsc": "^2.0.4",
+    "typescript": "^5.7.2"
+  }
+}
